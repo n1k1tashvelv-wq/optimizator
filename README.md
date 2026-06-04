@@ -78,8 +78,4 @@ Optimizator анализирует все точки входа автозагр
 
 ```
 
-Если нужно добавить скриншоты, поменять описание или добавить разделы, просто скажите — я скорректирую.
-GitHub - n1k1tashvelv-wq/optimizator
-GitHub - n1k1tashvelv-wq/optimizator
-github.com
    
