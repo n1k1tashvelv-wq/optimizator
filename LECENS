@@ -10,3 +10,9 @@ to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the desctop app.
 
+This is a desktop application for analyzing and optimizing Windows startup, which helps to speed up the system boot and improve its responsiveness.
+
+ Over time, the computer grows with programs that register themselves in the startup without the user's knowledge.
+This slows down the start of Windows and reduces the performance. Optimizator solves this problem by providing a convenient tool
+for managing the startup based on data from a specialized database.
+
